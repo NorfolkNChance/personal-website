@@ -1,10 +1,8 @@
-personal-website |Documentation status|
+personal-website 
 ================
+|Documentation status| |Build status|
 A sample website for developing experience in setting up a Python Flask website.
 Goal is to learn other technology as part of the pipeline.
-Build Status
-============
-|Build status|
 
 .. |Documentation status| image:: https://readthedocs.org/projects/personal-website/badge/?version=latest
    :target: https://personal-website.readthedocs.io/en/latest/?badge=latest
