@@ -1,6 +1,6 @@
-personal-website 
+personal-website |Documentation status| |Build status| 
 ================
-|Documentation status| |Build status|
+
 A sample website for developing experience in setting up a Python Flask website.
 Goal is to learn other technology as part of the pipeline.
 
